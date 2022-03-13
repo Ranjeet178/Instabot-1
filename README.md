@@ -14,7 +14,7 @@
 
 
 ## Overview
-The objective of this project is to use BeautifulSoup to automate instagrame and exctract useful information from the public profiles for analysis. Information like followers, post liked or following, historical activity of the user can be extracted.
+The objective of this project is to use selenium and BeautifulSoup to automate instagrame and exctract useful information from the public profiles for analysis. Information like followers, post liked or following, historical activity of the user can be extracted.
 ## Motivation
 The motivation is to develope an application which will collect data from instagram.
 
